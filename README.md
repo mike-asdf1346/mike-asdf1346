@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 📢 My name is **JellyPie** or you can also call me **Jeli**
+- 📢 My name: **JellyPie** Or **Jeli**
 
-- 🌱 Currently learning Cybersecurity & Linux commands!
+- 🌱 Passionate about learning Cybersecurity & Linux
 
-- 🔭 Love studying how computers work, understand why hackers exist and hack
+- 🔭 Studying how computers work & Understand why hackers exist and hack
