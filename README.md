@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 📢 My name: **JellyPie** Or **Jeli**
+- 📢 My name: **JellyPie** or **Jeli**
 
 - 🌱 Passionate about learning Cybersecurity & Linux
 
