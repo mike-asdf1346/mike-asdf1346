@@ -4,4 +4,4 @@
 
 - 🌱 Passionate about learning Cybersecurity & Linux
 
-- 🔭 Studying how computers work & Understand why hackers exist and hack
+- 🔭 Study how computers work & Understand why hackers exist and hack
