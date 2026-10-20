@@ -1,7 +1,9 @@
-## Hi there 👋
+# Greetings everyone 👋
 
-- 📢 My name is **"JellyPie"** but you can call me **"Jeli"**
+- 📢 My name is **"JellyPie"**, you could also call me **Jelly**!
 
 - 🌱 Passionate about learning Cybersecurity & Linux
 
 - 🔭 Study how computers work & Understand why hackers exist and hack
+
+- 📚 Learn forever, as the world continues
