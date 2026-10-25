@@ -1,11 +1,17 @@
-- 📢 My name is **Jelly**, **JellyPie**
+  <figure>
+  <img align="right" style="width:175px;height:178px;" src="https://media1.tenor.com/m/c3hLs3HVKMAAAAAC/bocchi-the-rock-kita-ikuyo.gif"><br>
+  </figure>
+
+- 📢 My name is **Jelly**, also called **JellyPie**
 
 - 🌱 Interested in Cybersecurity & Linux
 
 - ✍️ My blog here (to be done..)
 
+
+
 <div align="center">
-  <h1>📊My Status</h1>
+  <h1><br>📊My Status</h1>
   <table>
     <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com?user=mike-asdf1346&theme=dark&timezone=%2B8" /></a></td>
@@ -27,6 +33,6 @@
 </div>
 
 <h1 align="center">Thanks for reading!</h1>
-<div align="center" style="backgorund-color: blue">
+<div align="center">
   <img src="https://media1.tenor.com/m/jrCMZpT8QxIAAAAd/bocchi-the-rock-kita-ikuyo.gif" />
   </div>
