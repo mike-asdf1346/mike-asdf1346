@@ -27,6 +27,6 @@
 </div>
 
 <h1 align="center">Thanks for reading!</h1>
-<div align="center">
-  <img src="https://media1.tenor.com/m/jrCMZpT8QxIAAAAd/bocchi-the-rock-kita-ikuyo.gif" alt="not shown" />
+<div align="center" style="backgorund-color: blue">
+  <img src="https://media1.tenor.com/m/jrCMZpT8QxIAAAAd/bocchi-the-rock-kita-ikuyo.gif" />
   </div>
