@@ -6,4 +6,4 @@
 
 - 🔭 Study how computers work & Understand why hackers exist and hack
 
-- 📚 Learn forever, as the world continues
+- 📚 Learn forever 
