@@ -14,12 +14,19 @@
   </table>
 </div>
 
+<h1 align="center">💻Skills</h1>
 <div align="center">
-  <h1>💻Skills</h1>
-  <div><h2>Language</h2>
-    <img src="https://skillicons.dev/icons?i=py,c,html,css,js,lua,pycharm," />
-  </div>
-  <div><h2>Social (Mainly used)</h2>
-    <img src="https://skillicons.dev/icons?i=github,discord,instagram,gmail," />
-  </div>
+<h2>Languages</h2>
+<img src="https://skillicons.dev/icons?i=py,c,html,css,js,lua,pycharm" />
+<h2>Tool</h2>
+<img src="https://skillicons.dev/icons?i=git,docker,vscode" />
+<h2>System</h2>
+<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
+<h2>Social (Mainly used)</h2>
+<img src="https://skillicons.dev/icons?i=github,discord,instagram,gmail" />
 </div>
+
+<h1 align="center">Thanks for reading!</h1>
+<div align="center">
+  <img src="https://media1.tenor.com/m/jrCMZpT8QxIAAAAd/bocchi-the-rock-kita-ikuyo.gif" alt="not shown" />
+  </div>
