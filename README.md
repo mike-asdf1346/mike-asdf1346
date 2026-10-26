@@ -6,7 +6,7 @@
 
 - 🌱 Interested in Cybersecurity & Linux
 
-- ✍️ My blog here (to be done..)
+- ✍️ My blog [Mike's Blog](https://mike-asdf1346.github.io/)
 
 
 
