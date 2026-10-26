@@ -25,7 +25,7 @@
 <h2>Languages</h2>
 <img src="https://skillicons.dev/icons?i=py,c,html,css,js,lua,pycharm" />
 <h2>Tool</h2>
-<img src="https://skillicons.dev/icons?i=git,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=astro,git,docker,vscode" />
 <h2>System</h2>
 <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
 <h2>Social (Mainly used)</h2>
