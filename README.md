@@ -2,7 +2,7 @@
   <img align="right" style="width:175px;height:178px;" src="https://media1.tenor.com/m/c3hLs3HVKMAAAAAC/bocchi-the-rock-kita-ikuyo.gif"><br>
   </figure>
 
-- 📢 My name is **Mike**, I also call myself **JellyPie**
+- 📢 My name is **Mike**, with a nickname of **JellyPie**
 
 - 🌱 Interested in Cybersecurity & Linux
 
