@@ -6,7 +6,7 @@
 
 - 💻 Interested in Cybersecurity & Linux
 
-- ✍️ My blog [Mike's Blog](https://mike-asdf1346.github.io/)
+- ✍️ This is my blog [Mike's Blog](https://mike-asdf1346.github.io/)
 
 
 
@@ -20,7 +20,7 @@
   </table>
 </div>
 
-<h1 align="center">💻Skills</h1>
+<h1 align="center">💻My Skills</h1>
 <div align="center">
 <h2>Languages</h2>
 <img src="https://skillicons.dev/icons?i=py,c,html,css,js,lua,pycharm" />
