@@ -4,7 +4,7 @@
 
 - 📢 My name is **Mike**, with a nickname of **JellyPie**
 
-- 🌱 Interested in Cybersecurity & Linux
+- 💻 Interested in Cybersecurity & Linux
 
 - ✍️ My blog [Mike's Blog](https://mike-asdf1346.github.io/)
 
