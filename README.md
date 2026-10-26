@@ -28,7 +28,7 @@
 <img src="https://skillicons.dev/icons?i=astro,git,docker,vscode" />
 <h2>System</h2>
 <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
-<h2>Social (Mainly used)</h2>
+<h2>Social (Most of the time)</h2>
 <img src="https://skillicons.dev/icons?i=github,discord,instagram,gmail" />
 </div>
 
