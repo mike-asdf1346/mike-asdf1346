@@ -22,7 +22,7 @@
 
 <h1 align="center">💻My Skills</h1>
 <div align="center">
-<h2>Languages</h2>
+<h2>Language</h2>
 <img src="https://skillicons.dev/icons?i=py,c,html,css,js,lua,pycharm" />
 <h2>Tool</h2>
 <img src="https://skillicons.dev/icons?i=astro,git,docker,vscode" />
