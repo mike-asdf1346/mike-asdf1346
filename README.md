@@ -32,7 +32,7 @@
 <img src="https://skillicons.dev/icons?i=github,discord,instagram,gmail" />
 </div>
 
-<h1 align="center">Thanks for reading!</h1>
+<h1 align="center">This is the end!</h1>
 <div align="center">
   <img src="https://media1.tenor.com/m/jrCMZpT8QxIAAAAd/bocchi-the-rock-kita-ikuyo.gif" />
   </div>
