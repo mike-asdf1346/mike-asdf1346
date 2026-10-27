@@ -30,7 +30,7 @@
   </table>
 </div>
 
-<h1 align="center">💻Skill</h1>
+<h1 align="center">💻Skills</h1>
 <div align="center">
 <h2>Language</h2>
 <img src="https://skillicons.dev/icons?i=py,c,html,css,js,lua,pycharm" />
