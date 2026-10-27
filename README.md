@@ -41,8 +41,9 @@
 <h2>Social (Most of the time)</h2>
 <img src="https://skillicons.dev/icons?i=github,discord,instagram,gmail" />
 </div>
-
+<!--
 <h1 align="center">-- Finished --</h1>
 <div align="center">
   <img src="https://media1.tenor.com/m/jrCMZpT8QxIAAAAd/bocchi-the-rock-kita-ikuyo.gif" />
   </div>
+-->
