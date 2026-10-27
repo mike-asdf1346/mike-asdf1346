@@ -1,5 +1,11 @@
+
+<h1 align="center">Welcome to my github!</h1>
+<div align="center">
+  <img src="https://count.getloli.com/@mike-asdf1346?theme=booru-lewd&padding=7&offset=2&align=center&scale=1.3&pixelated=1&darkmode=0" /><br>
+</div>
+
   <figure>
-  <img align="right" style="width:175px;height:178px;" src="https://media1.tenor.com/m/c3hLs3HVKMAAAAAC/bocchi-the-rock-kita-ikuyo.gif"><br>
+  <br><img align="right" style="width:205px;height:205px;" src="https://media1.tenor.com/m/c3hLs3HVKMAAAAAC/bocchi-the-rock-kita-ikuyo.gif"><br>
   </figure>
 
 - 📢 My name is **Mike**, with a nickname of **JellyPie**
