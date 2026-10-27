@@ -1,7 +1,7 @@
 
 <h1 align="center"></h1>
 <div align="center">
-  <img src="https://count.getloli.com/@mike-asdf1346?theme=booru-lewd&padding=7&offset=2&align=center&scale=1.3&pixelated=1&darkmode=0" /><br>
+  <img src="https://count.getloli.com/@mike-asdf1346?theme=booru-lewd&padding=7&offset=2&align=center&scale=1.1&pixelated=1&darkmode=0" /><br>
 </div>  
 <h1></h1>
   
