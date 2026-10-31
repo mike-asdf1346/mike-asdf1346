@@ -37,7 +37,7 @@
 <h2>Tool</h2>
 <img src="https://skillicons.dev/icons?i=astro,git,docker,vscode" />
 <h2>Environment</h2>
-<img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
+<img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu" />
 <h2>Social (Most of the time)</h2>
 <img src="https://skillicons.dev/icons?i=github,discord,instagram,gmail" />
 </div>
